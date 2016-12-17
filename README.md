@@ -1,0 +1,2 @@
+# Regression-with-Keras-Deep-Learning-Library-in-Python
+In this repository, you will know about: How to load a CSV dataset and make it available to Keras. How to create a neural network model with Keras for a regression problem. How to use scikit-learn with Keras to evaluate models using cross validation. How to perform data preparation in order to improve skill with Keras models. How to tune the network topology of models with Keras.
